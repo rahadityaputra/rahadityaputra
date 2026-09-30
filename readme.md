@@ -1,22 +1,34 @@
-## Hello World , I am Rahaditya 
+# Hi there, I'm Abimanyu 👋
 
+> "People don't care about the tech stack; they care if the product solves their problem. I make sure it does both."
 
+### 🎯 What I Bring to the Table
+- 💡 **Problem-First Mindset:** Building products focused on real user needs, conversion, and seamless UX.
+- ⚡ **Performance & Scalability:** Writing maintainable, clean code that keeps apps fast and crash-free.
+- 🤝 **Product & Engineering Bridge:** Translating complex business goals into clean technical solutions.
+- ⚙️ **Current Status:** `git commit -m "optimized workflow & fixed edge cases"`
 
+### 🛠️ Technical Capabilities & Solution Delivery
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahadityaputra) 
+- **Cross-Platform Engineering**  
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)  
+  *Building high-performance, native-quality Android & iOS apps from a single codebase to reduce time-to-market and engineering costs.*
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rahadityaputra&theme=default&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rahadityaputra&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahadityaputra&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+- **Backend & API Systems**  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+  *Architecting resilient, secure server side logic and scalable microservices tailored to specific business demands.*
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rahadityaputra&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- **Data Management & Storage**  
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
+  *Designing optimized relational and non-relational database schemas for high data integrity, quick query performance, and scale.*
 
+- **Real-Time Data & API Integration**  
+  ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)  
+  *Enabling seamless data flow, efficient payload fetching, and instant real-time synchronization for interactive user experiences.*
+
+- **Software Architecture & DevOps**  
+  ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
+  *Structuring clean, testable codebases alongside containerized environments for seamless developer collaboration and reliable deployment.*
 ---
-[![](https://visitcount.itsvg.in/api?id=rahadityaputra&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+📫 **Let's build something impactful together:** [LinkedIn](https://www.linkedin.com/in/rahadityaputra/) | [Portfolio](https://rahadityaputra.my.id) | [Email](mailto:rahadit.a.123@gmail.com)
